@@ -47,19 +47,18 @@ My path into disfluency research began during my General Psychology dissertation
 
 ## research directions
 
-### **Cognitive and Neural Mechanisms**
+#### **Cognitive and Neural Mechanisms**
 - **predictive processing**
 - **disfluency and neural mechanisms**
 - **communicative difficulty**
 
-### **Language Use and Variation**
+#### **Language Use and Variation**
 - **pragmatic variability**
 - **multilingual integration**
 
-### **Modeling and AI Architectures**
+#### **Modeling and AI Architectures**
 - **alignment strategies in LLMs, SLMs, and neurosymbolic models**
 - **context-aware AI evaluation**
 - **multimodal integration**
 
 ---
-
