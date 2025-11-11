@@ -5,6 +5,8 @@ permalink: /
 subtitle: >
   <span>/Eye-dah Tah-ree-gat/</span>
   <br>
+  <small><em>“Aida” is an alternative spelling of the Turkish/Azerbaijani name <i>Ayda</i>, meaning “in the moon” and symbolizing radiance and guidance.</em></small>
+  <br>
   <span>
     <strong>
       <a href='https://informatics.ed.ac.uk/ukri-cdt-in-natural-language-processing'>UKRI CDT in NLP</a> | 
