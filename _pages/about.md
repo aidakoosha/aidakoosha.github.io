@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <span>/Eye-dah Tah-ree-gat/</span>
   <br>
-  <small><em>Aida</em> is an alternative spelling of the Turkish/Azerbaijani name "Ayda,</small>
+  <small><em>Aida</em> is an alternative spelling of the Azerbaijani/Turkish name "Ayda,</small>
   <br>
   <small>meaning “in the moon” and symbolizing radiance and guidance.</small>
   <br>
