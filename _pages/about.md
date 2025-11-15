@@ -7,7 +7,7 @@ subtitle: >
   <br>
   <small><em>Aida</em> is an alternative spelling of the Azerbaijani/Turkish name <em>Ayda</em>,</small>
   <br>
-  <small>meaning “in the moon” and symbolizing radiance and guidance.</small>
+  <small>meaning “in the moon” and symbolizing guidance and radiance.</small>
   <br>
   <span>
     <strong>
