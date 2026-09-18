@@ -45,23 +45,23 @@ I am an interdisciplinary researcher working at the intersection of **psychology
 
 I completed my Ph.D. with Integrated Study in Natural Language Processing at the University of Edinburgh, where I was supervised by Prof. **[Martin Corley](https://martincorley.org/)** and Dr. **[Patrick Sturt](https://scholar.google.co.uk/citations?user=tINgWG4AAAAJ&hl=en)**. My thesis, **_Written Disfluencies and Nonliteral Meaning in Natural Language Processing: Evidence from Behavioral and Computational Studies_**, investigated written fillers like _um_ and _hmm_ and their interaction with nonliteral meaning (sarcasm). My thesis examiners were Prof. **[Holly Branigan](https://scholar.google.com/citations?user=LZMx9AMAAAAJ&hl=en)** and Prof. **[Robert Hartsuiker](https://scholar.google.com/citations?user=lQ8sY9YAAAAJ&hl=en)**. In my work, I combined experimental psycholinguistics (eye-tracking, self-paced reading, statement evaluation, and cloze completion), computational modeling (masked and causal), and natural language processing (corpus analysis) to study language processing in context and improve AI's understanding of psycholinguistic nuances.
 
-Beyond core NLP, my background in Psychology and Architectural/User Design gives me a cross-disciplinary perspective on human–agent entanglement, and an ongoing interest in participatory, co-design approaches to technology for vulnerable and underserved users — an interest that has shaped a funding proposal on trauma-informed conversational AI, and one I hope to extend toward accessible and clinical communication contexts.
+Beyond core NLP, my background in Psychology and Architectural/User Design gives me a cross-disciplinary perspective on human–agent entanglement, and an ongoing interest in participatory, co-design approaches to technology for vulnerable and underserved users. This is an interest that has shaped a funding proposal on trauma-informed conversational AI, and one I hope to extend toward accessible and clinical communication contexts.
 
 My path into disfluency research began during my General Psychology dissertation at the University of Tabriz, supervised by Dr. **[Mostafa Zarean](https://scholar.google.com/citations?user=F1SRyf8AAAAJ&hl=en)** and Prof. **[Jana Javakhishvili](https://scholar.google.com/citations?user=VkFUS-wAAAAJ&hl=en)**. Interviewing psychotrauma survivors, I became interested in intentional disfluencies and the potential meaning behind these interruptions. That project was the first empirical comparison of cognitive, behavioral, and interpersonal emotion regulation strategies in individuals with and without sexual traumatic experiences, conducted in the Iranian context, and it continues to shape the way I approach communication in both human and machine contexts.
 
 ---
-
-## Interests
+## interests
 
 ##### **Cognitive and Neural Mechanisms**
 
 - **predictive processing**
 - **disfluency and neural mechanisms**
-- **communicative difficulty**
+- **processing costs of communicative difficulty**
 
 ##### **Language Use and Variation**
 
 - **pragmatic variability**
+- **nonliteral meaning and sarcasm**
 - **multilingual integration**
 
 ##### **Modeling and AI Architectures**
@@ -77,13 +77,14 @@ My path into disfluency research began during my General Psychology dissertation
 
 ##### **Participatory and Inclusive Design**
 
+- **UX and spatial design methods (user research, wireframing, usability testing)**
 - **co-design and PPIE with vulnerable and underserved populations**
 - **accessible and assistive communication technologies**
-- **an emerging interest in extending this work to language disorders and clinical communication contexts**
 
-##### **Wellbeing and Communication under Adversity**
+##### **Wellbeing and Communication**
 
 - **trauma-informed research design**
+- **language disorders, communication difficulties, and AI-mediated communication support**
 - **emotion regulation and social-psychological responses to adversity**
 
 ---
