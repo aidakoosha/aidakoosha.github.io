@@ -70,7 +70,7 @@ My path into disfluency research began during my General Psychology dissertation
 - **context-aware AI evaluation**
 - **multimodal integration**
 
-##### **Human-AI Trust and Interaction**
+##### **Human–AI Trust and Interaction**
 
 - **trust, deception, and manipulation via psycholinguistic cues**
 - **human-AI trust calibration and interpretability**
